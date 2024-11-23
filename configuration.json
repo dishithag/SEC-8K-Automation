@@ -1,0 +1,13 @@
+{
+    "fetch_days": 200,
+    "search_urls": {
+        "1.05": "https://www.sec.gov/edgar/search/#/q=%2522Item%25201.05%2522%2520Material%2520Cybersecurity%2522&dateRange=custom&category=custom",
+        "8.01": "https://www.sec.gov/edgar/search/#/q=%2522Item%252E%258%25208.01%2522%2520Cybersecurity%2520incident%2522&dateRange=custom&category=custom"
+    },
+    "chrome_headless": false,
+    "sender_email": "your-email@example.com",
+    "recipient_emails": ["recipient@example.com"],
+    "smtp_server": "add-your-smtp-server-here"
+}
+
+
